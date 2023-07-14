@@ -505,6 +505,22 @@ main .sobre {
     header .navegacao-primaria.ativado li a {
         padding: 20px 0px;
     }
+
+    
+    /* Meus projetos */
+
+    .div-meus-projetos {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .projeto1 .projeto2 {
+        max-width: 100vw;
+    }
+
+    .div-meus-projetos img {
+        max-width: 100%;
+    }
 }
 
 @keyframes aparecimento-gradual {
