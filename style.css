@@ -399,6 +399,9 @@ main .sobre {
     cursor: pointer;
 }
 
+.section-meus-projetos p a {
+    color: #dc3545;
+}
 
 
 /* Responsividade */
